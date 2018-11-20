@@ -1,2 +1,2 @@
-this is java file and create ant file:
+this is java file
 
