@@ -1,7 +1,2 @@
 this is java file and create ant file:
 
-how r u baby
-u s a
-uk
-as
-
