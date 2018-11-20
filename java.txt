@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is java
+=======
+this is java 
+
+>>>>>>> bugfix
