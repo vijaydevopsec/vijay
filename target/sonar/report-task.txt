@@ -1,0 +1,6 @@
+projectKey=com.mt.multimodule:MultipleModulesMaven
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=com.mt.multimodule%3AMultipleModulesMaven
+ceTaskId=AWeE-D29_QLWpSonK4qv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWeE-D29_QLWpSonK4qv
